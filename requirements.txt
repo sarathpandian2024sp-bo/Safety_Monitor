@@ -1,0 +1,7 @@
+opencv-python
+ultralytics
+mediapipe==0.10.21
+pygame
+numpy
+huggingface_hub
+flask
